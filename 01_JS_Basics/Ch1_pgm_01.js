@@ -15,4 +15,4 @@ console.log("Hello World!");
  *
  * 4) Click Run.
  *
- */ console.log("Good morning")
+ */ console.log("Good morning");
